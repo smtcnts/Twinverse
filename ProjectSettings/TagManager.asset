@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Lava
+  - Portal
+  - NPC
+  - Damla
+  - Spike
+  - Logo
+  - Final
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Zemin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1724852315
+    locked: 0
+  - name: zemin
+    uniqueID: 1714328655
+    locked: 0
+  - name: obje
+    uniqueID: 3498270201
+    locked: 0
+  - name: karakter
+    uniqueID: 2162393135
+    locked: 0
+  - name: UI
+    uniqueID: 3105506647
+    locked: 0
+  m_RenderingLayers:
+  - Default
